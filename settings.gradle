@@ -1,0 +1,2 @@
+rootProject.name = "Creek Android Assignment"
+include ':app'
